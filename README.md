@@ -1,5 +1,5 @@
 # ClickBaits-Detection
-My Graduation Project of Bachelor Degree  
+This is Zhengze Yu's Graduation Project of Bachelor Degree  
 
 ## data set download link:(from [Clickbait Challenge](https://www.clickbait-challenge.org/))  
 [Training](http://www.uni-weimar.de/medien/webis/corpora/corpus-webis-clickbait-17/clickbait17-train-170331.zip)  
